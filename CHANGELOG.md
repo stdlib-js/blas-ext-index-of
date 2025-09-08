@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`b5c1ed2`](https://github.com/stdlib-js/stdlib/commit/b5c1ed2e30623cf0cf5b801930d3ad3dfd2cc454) - **test:** add tests for full code coverage _(by Athan Reines)_
 -   [`dfbc640`](https://github.com/stdlib-js/stdlib/commit/dfbc6406250c55ee702dc31e569fd65e1fcc1111) - **test:** address test failures _(by Athan Reines)_
 -   [`d08aa12`](https://github.com/stdlib-js/stdlib/commit/d08aa12963712cb6cd6f18f4dad3391a38a8d95e) - **test:** add tests for a fromIndex ndarray _(by Athan Reines)_
 -   [`a51a1a2`](https://github.com/stdlib-js/stdlib/commit/a51a1a2d7d06f299e3df58664968191a3738887f) - **test:** add tests for a fromIndex ndarray _(by Athan Reines)_
