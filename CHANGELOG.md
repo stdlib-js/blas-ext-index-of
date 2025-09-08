@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`1eb5a82`](https://github.com/stdlib-js/stdlib/commit/1eb5a82086b8d5cfde3e34980cebf8e0dacf18ed) - **docs:** document default values _(by Athan Reines)_
 -   [`76883dd`](https://github.com/stdlib-js/stdlib/commit/76883dd26350489a351296785ca002838d9d39d5) - **fix:** update error message _(by Athan Reines)_
 -   [`952be79`](https://github.com/stdlib-js/stdlib/commit/952be79ec684a1e05c4e794b1a35a484b360a60e) - **test:** use consistent assertions _(by Athan Reines)_
 -   [`821035c`](https://github.com/stdlib-js/stdlib/commit/821035c992e57ecadb7531c71f4bcb084b32461c) - **refactor:** only check properties when options has been provided _(by Philipp Burckhardt)_
