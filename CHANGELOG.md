@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-08)
+## Unreleased (2025-11-13)
 
 <section class="features">
 
@@ -33,6 +33,8 @@
 
 <details>
 
+-   [`ff50310`](https://github.com/stdlib-js/stdlib/commit/ff5031015827c1783e8b7b62713361ca6c7bc655) - **chore:** fix lint errors _(by Philipp Burckhardt)_
+-   [`966aadc`](https://github.com/stdlib-js/stdlib/commit/966aadc45f808116483e177d44fb34df11a347c3) - **docs:** update type _(by Athan Reines)_
 -   [`7533913`](https://github.com/stdlib-js/stdlib/commit/75339137b0ab48062cb7e1cd05da5ded33a6cf9c) - **fix:** update argument juggling _(by Athan Reines)_
 -   [`b5c1ed2`](https://github.com/stdlib-js/stdlib/commit/b5c1ed2e30623cf0cf5b801930d3ad3dfd2cc454) - **test:** add tests for full code coverage _(by Athan Reines)_
 -   [`dfbc640`](https://github.com/stdlib-js/stdlib/commit/dfbc6406250c55ee702dc31e569fd65e1fcc1111) - **test:** address test failures _(by Athan Reines)_
