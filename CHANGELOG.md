@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-13)
+## Unreleased (2025-11-15)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`34fcb67`](https://github.com/stdlib-js/stdlib/commit/34fcb67337218c3a85b646efeaccdf7a62ac0b9c) - **refactor:** use base utility _(by Athan Reines)_
 -   [`ff50310`](https://github.com/stdlib-js/stdlib/commit/ff5031015827c1783e8b7b62713361ca6c7bc655) - **chore:** fix lint errors _(by Philipp Burckhardt)_
 -   [`966aadc`](https://github.com/stdlib-js/stdlib/commit/966aadc45f808116483e177d44fb34df11a347c3) - **docs:** update type _(by Athan Reines)_
 -   [`7533913`](https://github.com/stdlib-js/stdlib/commit/75339137b0ab48062cb7e1cd05da5ded33a6cf9c) - **fix:** update argument juggling _(by Athan Reines)_
