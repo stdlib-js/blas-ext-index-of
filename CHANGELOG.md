@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-15)
+## Unreleased (2026-01-18)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`0ea192f`](https://github.com/stdlib-js/stdlib/commit/0ea192f53e0a69d4158693c1f4bab555a3a2fde2) - add missing exports comments
 -   [`7533913`](https://github.com/stdlib-js/stdlib/commit/75339137b0ab48062cb7e1cd05da5ded33a6cf9c) - update argument juggling
 -   [`76883dd`](https://github.com/stdlib-js/stdlib/commit/76883dd26350489a351296785ca002838d9d39d5) - update error message
 
@@ -33,6 +34,7 @@
 
 <details>
 
+-   [`0ea192f`](https://github.com/stdlib-js/stdlib/commit/0ea192f53e0a69d4158693c1f4bab555a3a2fde2) - **fix:** add missing exports comments _(by Philipp Burckhardt)_
 -   [`34fcb67`](https://github.com/stdlib-js/stdlib/commit/34fcb67337218c3a85b646efeaccdf7a62ac0b9c) - **refactor:** use base utility _(by Athan Reines)_
 -   [`ff50310`](https://github.com/stdlib-js/stdlib/commit/ff5031015827c1783e8b7b62713361ca6c7bc655) - **chore:** fix lint errors _(by Philipp Burckhardt)_
 -   [`966aadc`](https://github.com/stdlib-js/stdlib/commit/966aadc45f808116483e177d44fb34df11a347c3) - **docs:** update type _(by Athan Reines)_
