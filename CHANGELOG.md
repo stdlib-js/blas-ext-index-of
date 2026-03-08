@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-08)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`9088af9`](https://github.com/stdlib-js/stdlib/commit/9088af9b895e28543b27bfaaa9eb211769ccf65a) - **bench:** refactor to use string interpolation in blas/ext/index-of [(#10825)](https://github.com/stdlib-js/stdlib/pull/10825) _(by Kamal Singh Rautela)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Kamal Singh Rautela
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
