@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-17)
+## Unreleased (2026-05-15)
+
+<section class="features">
+
+### Features
+
+-   [`668b99b`](https://github.com/stdlib-js/stdlib/commit/668b99bbb0e95cc49329b41479f9281ac26c00c7) - add specialized support for complex numbers
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`668b99b`](https://github.com/stdlib-js/stdlib/commit/668b99bbb0e95cc49329b41479f9281ac26c00c7) - **feat:** add specialized support for complex numbers _(by Athan Reines)_
 -   [`1c2eddf`](https://github.com/stdlib-js/stdlib/commit/1c2eddf59350cdc7dfd3d66eab07ab0291d5f9f6) - **test:** fix dtype comparisons _(by Athan Reines)_
 -   [`b2160c6`](https://github.com/stdlib-js/stdlib/commit/b2160c655c2ce47912079386eab7ecf61c6bbceb) - **docs:** improve doctests for ndarray instances in `blas/ext/index-of` [(#11488)](https://github.com/stdlib-js/stdlib/pull/11488) _(by Uday Kakade)_
 -   [`a0169bc`](https://github.com/stdlib-js/stdlib/commit/a0169bcfc0d05ac94c206ac5d6d0a898ec304463) - **docs:** remove unused `ndarray2array` requires from README usage examples [(#11194)](https://github.com/stdlib-js/stdlib/pull/11194) _(by Philipp Burckhardt)_
